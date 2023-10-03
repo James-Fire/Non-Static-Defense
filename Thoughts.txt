@@ -1,0 +1,104 @@
+Static Offense?
+
+WOL:
+Flying bunker (Or other way to move without Salvage)
+Units cannot fire if not in a bunker
+
+HOTS:
+Buff swarm hosts, locusts can shoot up by default
+Garrison units into spines/spores to give it a bonus, depending on unit:
+Evolutions provide the benefit of their base unit, in addition to their own
+
+Spines:
+Hydra-Range
+Lurker-Sunken lurker colony
+Impaler-Sunken colony
+
+Abberation-Armor and damage
+
+
+Spores:
+Muta-Shots Bounce
+Brood Lord-Broooooooooooooooodlings, can only hit air
+Viper-Parasitic Bomb
+
+Baneling-Shoots banelings, can hit ground, and air at reduced range
+Infestor-Shoots fungal
+
+Swarm Host-Deploys locusts
+Creeper-Creep Teleport
+Carrion-Deployed locusts fly
+
+Both:
+Ultra-Armor and life
+Torrasque-Revive
+Stinky-Stinky on hit
+
+Zergling-Immediate refund of some portion of the cost
+Swarmling-Gains an ability to deploy another
+Raptorling-More damage
+
+Swarm Queen-Gets transfuse
+Roach-"Burrow" to regen health fast
+Vile-Attacks slow
+Corpser-Attacks spawn roachlings
+
+
+LOTV:
+Warp-in reinforcements deploys cannons
+Buff destroyer
+Nerf Vanguard
+Garrison units into cannons/batteries/monoliths to give it a bonus, depending on unit:
+
+Cannon Only:
+Annihilator-Shadow Cannon
+Vanguard-Long Range Scatter Cannon(Nerfed)
+
+Phoenix-Can lift
+Mirage-Can phase to take no damage
+Corsair-Lower damage, faster firing, AOE
+
+HT-Weapon is now storm
+Archon--3 range, double damage
+Darchon-Energy bar and mind control
+Ascendant-Weapon is now Mindblast
+
+DT-cloaked, shadow fury
+
+Monolith Only:
+Void Ray-Void Ray weapon (Same range as normal monolith weapon)
+Destroyer-Destroyer weapon (Same range as normal monolith weapon)
+Arbiter-Cloak aura, cloaks buildings
+
+Colossus-Thermal Lance
+Reaver-Scarabs
+Wrathwalker-faster attack speed
+
+Carrier-Interceptors
+Tempest-Distintegration
+Mom-Multiple attacks
+
+Shield Battery Only: Garrisoning a unit also doubles energy regen, and increases max energy by 100
+Sentry-Dual shield restore
+Energizer-Chrono
+Havoc-Targeting increases damage to up to 3 targets. More vision, cliff vision, detection
+
+Carrier-Repair Drones
+
+Cannon and Monolith:
+Zealot-Attacks ignore armour
+Centurion-AOE stun on hit
+
+Dragoon-More damage(?), more range, AOE
+Adept-Can deploy an Adept shade
+
+Carrier-Interceptors
+
+Cannon and Shield Battery:
+Immortal-Barrier
+
+All:
+Sentinel-Reconstruction
+Stalker-Faster shield regen, some regen while in combat
+Avenger-refunds cost on death, avenger gets recalled
+Blood Hunter-Prevent enemy detection in a certain radius

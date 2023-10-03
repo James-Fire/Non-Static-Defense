@@ -1,0 +1,5 @@
+Units cannot attack. Only static defense structures can attack.
+*Units loaded into bunkers can attack.
+*All Terran units are now capable of being loaded into bunkers and missile turrets. Missile turrets get an upgrade based on which unit it is.
+*Zerg units can be loaded into Spine and Spore crawlers. This grants an upgrade based on which unit it is.
+*Protoss units can be loaded into Cannons, Batteries, and Monoliths. This grants an upgrade based on which unit it is.

@@ -1,0 +1,38 @@
+*Nexus Overcharge removed
+Cannons, Batteries, and Monoliths can Blink to anywhere with power
+*Cannons, Batteries, and Monoliths now have selection priority over other buildings, and can be selected together
+You can now build warp prisms from the nexus
+Cannons, Batteries, and Monoliths can now be built and teleported onto creep
+Warp prism has beeg power field
+Shield Battery starting energy up to 100
+When a defense structure dies, the unit that was in it also dies.
+Garrisoning units grants the shields of the unit to the structure
+Khaydarin Monolith cost reduced from 300/100 to 200/50
+Khaydarin Monolith Shields increased from 100->300, health reduced from 200->150
+Ground Armour upgrades now affect defensive structures, +1 armour per level
+Ground Weapon upgrades now affect defensive structures-, +10% damage per level
+You now start with a warp prism on every mission you start with a nexus on
+You now start with an additional 600 minerals, minus 150 for each cannon you start with.
+
+For Aiur:
+You now control the warp prisms and photon cannons at the starting area
+You have a probe, and start with 1500 minerals.
+You can build cannons and shield batteries.
+When a cannon dies, it's cost is refunded to you, to prevent softlock
+When a battery dies, it's cost is refunded to you, to prevent softlock
+If your probe dies, a replacement is created at the start
+If a warp prism dies, a replacement is created at the start
+The bonus objective hives have 2 mineral pickups in them
+You have 6 stalkers to start now
+You have 6 cannons to start now
+You only have 16 zealots to start now.
+You now get the warp prisms that come after killing the hives
+Cannons and batteries build much faster on this mission
+Shield battery energy is filled whenever you kill a hive or clear a warp conduit
+
+
+The Growing Shadow:
+Start with 2 warp prisms and 3 cannons
+
+Last Stand:
+*Clearing zerg base makes the zerg come faster

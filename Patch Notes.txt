@@ -1,0 +1,56 @@
+Centurion stun can now only fire every 5s
+Storm damage now stacks
+Monoliths now have an Unload button
+Mirages can now be loaded into everything
+Fixed auto-loading not applying to some units
+Mass Recall is now Temporal Defense; A 5 radius area that makes friendly units invulnerable for 30s
+Temporal Defense is now a Tier 3 ability. The other 2 are moved down 1.
+Improved ability button order on cannons, so that non-autocast abilities are prioritized
+Havocs now work
+Ascendants now work
+Guardian Shell now only works on Warp Prisms, Observers, and Defensive Structures
+If you load an invalid unit, the structure will now spit them out
+Tempests now work
+Scatter cannon is nerfed
+Monoliths now precharge their weapon
+Nerfed dragoon bonus range to 1
+Stalkers now give bonus anti-armour damage
+Adepts now give bonus anti-light damage
+Wrathwalkers now work
+Arbiters now work
+Destroyer beam bounce is no longer affected by armour, bonus to armoured rolled into base damage
+Loading units no longer immediately restores vitals 
+Reavers now work
+Colossi now work
+Vanguards now work
+Corsair can now be loaded into Shield Battery
+Monoliths can now be placed on creep
+Void Rays now work
+Destroyers now work
+All defensive structures now have the same selection priority as normal units. They cannot be box-selected together still
+Chrono Beam now affects ~~reaver~~ monolith scarab production, will also affect ~~carrier~~ cannon and monolith interceptor production.
+Building a shield battery from the forge now gives it the correct 100 starting energy
+*When doing shadow fury, cannons will now always end in power
+
+The Growing Shadow:
+*The enemy now have overseers/observers to prevent cloak cheese with observers
+
+Forbidden Weapon:
+Fixed stasis sentries being able to shoot
+
+Harbinger of Oblivion:
+You now start with 2 warp prisms, 4 cannons, and 2 shield batteries.
+2 of the starting zealot-tier are replaced with sentry-tier
+
+Unsealing the Past:
+Start with 2 warp prisms
+Start with 2 Monoliths
+Start with a shield battery
+Replaced 1 colossus with a sentry-tier
+
+
+*Carriers now work
+*Mom now works
+
+*Destroyer visuals are no longer being very special
+*Added an ability on the nexus to recall depowered defensive structures to it

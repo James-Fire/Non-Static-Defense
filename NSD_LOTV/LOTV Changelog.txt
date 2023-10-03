@@ -1,0 +1,93 @@
+*Cannons, Batteries, and Monoliths now have selection priority over other buildings, and can be selected together
+Cannons, Batteries, and Monoliths can Blink to anywhere with power
+Cannons, Batteries, and Monoliths can now be built and teleported onto creep
+When a defense structure dies, the unit that was in it also dies.
+Garrisoning units grants the shields of the unit to the structure
+Khaydarin Monolith cost reduced from 300/100 to 200/50
+Khaydarin Monolith Shields increased from 100->300, health reduced from 200->150
+You start with a warp prism on every mission you start with a nexus on
+You start with an additional 600 minerals, minus 150 for each cannon you start with.
+If you don't start with a forge, you get the minerals to build one
+Units warped in close to a valid defense structure are now loaded into it upon finishing their warp.
+Defense Structures warped in close to a valid unit now load that unit upon completion.
+The Forge has 3 abilities to place the 3 defense structures. These abilities work off shared charges.
+Cannons have an ability to up their max range, sight, and minimum range by 4, unlocked by the Cybernetics Core
+
+Units:
+You can build warp prisms from the nexus
+Added Observers. Can be built on the Nexus and Robotics Facility
+Warp prism has beeg power field
+Shield Battery starting energy up to 100
+Shield Batteries auto-target pylons and other shield batteries
+
+Upgrades:
+You get Gravitic Drive for speedy prisms
+Ground Armour upgrades affect defensive structures, +1 armour per level
+Ground Weapon upgrades affect defensive structures-, +10% damage per level
+
+SOA Abilities:
+Deploy Pylon energy cost reduced to 50
+Nexus Overcharge no longer gives the nexus a weapon. Instead, all structures in the radar area are affected by Chrono. Includes defense structures
+Warp-in Reinforcements is now Solar Forge Production, allowing you to ignore build costs for 10s, also cost 75 solarite instead of 50
+Warp Harmonization is default
+Warp Harmonization replaced in the SOA with Warp Matrix Overload. Warp structures can store 2 additional charges. Forges can store 2 additional charges for defense structures, and restore charges 25% faster.
+Matrix Overload applies to structures. Move speed replaced with shield regen buff
+Time Stop and Solar Bombardment are swapped in solarite cost
+The Solar Core line of abilities (Nexus Overcharge, Orbital Assimilator, Warp Matrix Overload) has been reordered to Orbital Assimilator, Warp Matrix Overload, Nexus Overcharge
+
+For Aiur:
+Unchanged
+
+The Growing Shadow:
+Start with 2 warp prisms and 3 cannons
+
+The Spear Of Adun:
+No Mission-Specific Changes
+
+Amon's Reach:
+No Mission-Specific Changes
+
+Last Stand:
+Clearing zerg base makes the zerg come faster
+
+Skyshield:
+No Mission-Specific Changes
+
+Brothers in Arms:
+No Mission-Specific Changes
+
+Forbidden Weapon:
+No Mission-Specific Changes
+
+Temple of Unification:
+No Mission-Specific Changes
+
+The Infinite Cycle:
+Unchanged
+
+Harbinger of Oblivion:
+No Mission-Specific Changes
+
+Steps of the Rite:
+No Mission-Specific Changes
+
+Rak'Shir:
+No Mission-Specific Changes
+
+Unsealing the Past:
+No Mission-Specific Changes
+
+Purification:
+No Mission-Specific Changes
+
+Templar's Charge:
+No Mission-Specific Changes
+
+Templar's Return:
+Unchanged
+
+The Host:
+No Mission-Specific Changes
+
+Salvation:
+No Mission-Specific Changes

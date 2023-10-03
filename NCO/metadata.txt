@@ -1,0 +1,5 @@
+title=Totally Non-Static Defense LOTV
+desc=You cannot attack with normal units. You must build defenses.
+author=James Fire
+campaign=LOTV
+version=0.1
