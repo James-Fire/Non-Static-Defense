@@ -1,4 +1,4 @@
-
+*Unit Flags -> Hidden Cargo UI (on the transport unit)
 
 
 *Carriers now work

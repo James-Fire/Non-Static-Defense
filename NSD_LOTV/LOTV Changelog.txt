@@ -1,4 +1,5 @@
-*Cannons, Batteries, and Monoliths now have selection priority over other buildings, and can be selected together
+Cannons, Batteries, and Monoliths now have selection priority over other buildings
+* and can be selected together
 Cannons, Batteries, and Monoliths can Blink to anywhere with power
 Cannons, Batteries, and Monoliths can now be built and teleported onto creep
 When a defense structure dies, the unit that was in it also dies.
@@ -12,6 +13,11 @@ Units warped in close to a valid defense structure are now loaded into it upon f
 Defense Structures warped in close to a valid unit now load that unit upon completion.
 The Forge has 3 abilities to place the 3 defense structures. These abilities work off shared charges.
 Cannons have an ability to up their max range, sight, and minimum range by 4, unlocked by the Cybernetics Core
+Chrono Beam now affects ~~reaver~~ monolith scarab production, will also affect ~~carrier~~ cannon and monolith interceptor production.
+Guardian Shell now only works on Warp Prisms, Observers, and Defensive Structures
+Mass Recall is now Temporal Defense; A 5 radius area that makes friendly units invulnerable for 30s
+Temporal Defense is now a Tier 3 ability. The other 2 are moved down 1.
+Storm damage now stacks
 
 Units:
 You can build warp prisms from the nexus
@@ -39,6 +45,7 @@ For Aiur:
 Unchanged
 
 The Growing Shadow:
+The enemy now have overseers/observers to prevent cloak cheese with observers
 Start with 2 warp prisms and 3 cannons
 
 The Spear Of Adun:
@@ -66,7 +73,8 @@ The Infinite Cycle:
 Unchanged
 
 Harbinger of Oblivion:
-No Mission-Specific Changes
+You now start with 2 warp prisms, 4 cannons, and 2 shield batteries.
+2 of the starting zealot-tier are replaced with sentry-tier
 
 Steps of the Rite:
 No Mission-Specific Changes
@@ -75,7 +83,10 @@ Rak'Shir:
 No Mission-Specific Changes
 
 Unsealing the Past:
-No Mission-Specific Changes
+Start with 2 warp prisms
+Start with 2 Monoliths
+Start with a shield battery
+Replaced 1 colossus with a sentry-tier
 
 Purification:
 No Mission-Specific Changes
