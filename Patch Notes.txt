@@ -1,8 +1,12 @@
 *Unit Flags -> Hidden Cargo UI (on the transport unit)
-
-
-*Carriers now work
-*Mom now works
+*Cannon, Battery, and Monolith no longer have the Cargo UI
+The War Council now says what each unit does when loaded into the things
+Increased Void Ray speed buff max stack to 10.
+Monolith load button now says what the destroyer does
+Carriers now work
+Mom now works
+Spread out buttons on Monolith and Battery
+Carrier repair drones now repair 1hp/s
 
 *Destroyer visuals are no longer being very special
 *When doing shadow fury, cannons will now always end in power

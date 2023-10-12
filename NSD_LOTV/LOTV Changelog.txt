@@ -18,6 +18,10 @@ Guardian Shell now only works on Warp Prisms, Observers, and Defensive Structure
 Mass Recall is now Temporal Defense; A 5 radius area that makes friendly units invulnerable for 30s
 Temporal Defense is now a Tier 3 ability. The other 2 are moved down 1.
 Storm damage now stacks
+Scatter cannon is nerfed
+Monoliths now precharge their weapon
+Destroyer beam bounce is no longer affected by armour, bonus to armoured rolled into base damage
+Carrier Repair Drone buffed to 1hp/s
 
 Units:
 You can build warp prisms from the nexus
