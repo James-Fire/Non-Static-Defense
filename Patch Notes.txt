@@ -1,13 +1,6 @@
 *Unit Flags -> Hidden Cargo UI (on the transport unit)
 *Cannon, Battery, and Monolith no longer have the Cargo UI
-Fixed the stalker, adept, and corsair bonus damage not applying
-Buffed the Vanguard attack to 4 shots
-Buffed the Vanguard attack speed to 3 from 3.75
-
-Salvation:
-Your allies now share power with you
-Ally heroes now respawn
-You allies will build and rebuild 3 pylons around each entrance
+Solar Forge Production now makes the defense abilities on the forge not use charges
 
 *Destroyer visuals are no longer being very special
 *When doing shadow fury, cannons will now always end in power
