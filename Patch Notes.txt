@@ -1,7 +1,52 @@
-*Unit Flags -> Hidden Cargo UI (on the transport unit)
-*Cannon, Battery, and Monolith no longer have the Cargo UI
-Solar Forge Production now makes the defense abilities on the forge not use charges
+Increased the pickup range of Cannons, Batteries, and Monoliths (0 -> 4)
+Warp Prism project power field buttons have default hotkeys now
+All units now take up 4 cargo space. Except probes. Probes still take 1.
+Cannons, Batteries, and Monoliths now have 4 cargo space.
+Warp-In buttons on the forge are now consistent
+Warp-In buttons on the forge now have default hotkeys
+Enabled researching Air Armour from the start, since it affects observers and Warp Prisms.
+Defense Warp is now smartcast (Only one warps per click, instead of all of them)
+Zealots can now be loaded into shield batteries
+Forges now start with 2 charges
+Observers can seige
+Cannons now have a visual indicator if they are in Long Range mode
+Project power field now has a targeting indicator for where the power field will be
+Warp Prism Phasing Mode now has an indicator for where the power field will be
+Warp Prism Phasing Mode now has an indicator for the max radius Project Power Field could reach
+Added behaviour variants so that you don't get ones that say the structure deals double damage on a shield battery
+Unified Loaded behaviour tooltips
+You now start with a forge on every mission. This is done by replacing a starting gateway with a forge on missions that don't already have a forge
+Added the no-build missions, with a Skip button because they're unedited
+Improved performance of the warpin loading trigger
+Warp prism is now faster.
+Battery is now a visibile unit tag
+Fixed Stalkers not giving double damage vs armoured.
+Added a missing space in the Load Monolith button tooltip.
+Load Cannon button now mentions that the Centurion grants an AOE stun, not just a stun.
+Centurion Loaded behaviour now mentions the stun is AOE
 
+
+The Growing Shadow:
+Added softlock prevention in the first section (Your warp prisms are now invulnerable during it)
+Added air blockers to prevent you from clearing the rest of the mission before getting to the nexus point
+Void Pylons now share power with you
+Slightly moved the void pylons so they serve as better staging areas
+The gateways you start with can now become warp gates
+Added tip about auto-loading using warpins
+The starting cutscene can now end (Your units still can't shoot though)
+Watching the starting cutscene no longer prevents cannons and prisms from appearing
+
+Last Stand:
+Added a note about the bonus objective doing something
+
+Rakshir:
+Added a starting gateway
+
+The Host:
+Added a starting gateway
+
+
+*Photon Cannon detector button now goes grey when unpowered
 *Destroyer visuals are no longer being very special
 *When doing shadow fury, cannons will now always end in power
 *Added an ability on the nexus to recall depowered defensive structures to it
