@@ -1,7 +1,50 @@
+*All units now have a button that tells you what they do when loaded.
+*Added a button showing the cooldown of Centurion Stun
+*Immortal Barrier now gives the Karax sheen from coop when active
+*Removed ability buttons from all units, since they can't use them.
+*Monolith no longer has 5 segments for interceptors for some reason
+*Monolith no longer always has the interceptor hangar
+*Nexus now has separate worker and army rally points
+*Observer Mode now has a hotkey
+*Nexus Overcharge Chrono is no longer applied every couple seconds, improving performance
+*Added "dummy" weapons for units that replace a defense structure's weapon
+*Added a newline to the HT War Council description
+*When doing shadow fury, cannons will now always end in power
+*Annihilator now gives an autocast ability to boost damage, instead of Shadow Cannon.
+*Dark Archon now autocasts confusion centered on the target
+*Added a 5s cooldown to using Defense Warp
+*Whirlwind zealots now also give cannons the whirlwind ability
+*Nerfed stalker bonus damage
+*Adept no longer gives the shade ability
+*Avenger and Blood Hunter also give cloak
+*Corsair now gives Dweb to cannons too
+*Blood hunter now casts a single-target Time Stop
+*Avenger changed somehow
+*Destroyer visuals are no longer being very special
+*The structures now get tinted/an icon based on what it loaded in them
 
+The Growing Shadow:
+*Added softlock prevention in the first section (Your warp prisms are now invulnerable during it)
+*Added air blockers to prevent you from clearing the rest of the mission before getting to the nexus point
+*Removed the Zeratul section
 
+Amon's Reach:
+*Bonuses are harder to get using air units
+
+Steps of the Rite:
+*Guardians can now hit ground
+*Added 2 starting monoliths
+*Mothership time warp no longer sinks into the ground
+*Fixed taldarim having the wrong gateway skin
+
+Rakshir:
+*Alarak accepts static defense structures that have a loaded unit as power sources
+*Fixed taldarim having the wrong gateway skin
+*Attack waves ramp up in count, not frequency
+
+Added 10, completed 0
+
+21 total, 0 complete
 
 *Photon Cannon detector button now goes grey when unpowered
-*Destroyer visuals are no longer being very special
-*When doing shadow fury, cannons will now always end in power
 *Added an ability on the nexus to recall depowered defensive structures to it
